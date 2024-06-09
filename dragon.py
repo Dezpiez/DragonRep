@@ -1,4 +1,4 @@
-#Program runs successfully
+#Program runs successfully / Sent to Github
 import time
 import random
 from sys import exit
